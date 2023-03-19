@@ -7,3 +7,4 @@ generates its color
 The CSS code would style the color picker element and preview box, and define the layout of the page.
 The JavaScript code would handle user interactions with the color picker element and update the preview box with the selected color.
 
+github project link https://github.com/0himabindu/colorpicker
